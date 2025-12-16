@@ -2,7 +2,7 @@ fastapi==0.115.0
 uvicorn[standard]==0.30.6
 pydantic-settings==2.5.2
 loguru==0.7.2
-python-multipart==0.0.9
+python-multipart==0.0.18
 lime==0.2.0.1
 shap==0.46.0
 numpy==2.1.1
