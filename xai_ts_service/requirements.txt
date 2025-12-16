@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic-settings==2.5.2
+loguru==0.7.2
+python-multipart==0.0.9
+lime==0.2.0.1
+shap==0.46.0
+numpy==2.1.1
+pandas==2.2.2
+scikit-learn==1.5.1
+pydantic==2.9.2
